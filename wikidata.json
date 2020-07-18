@@ -1,0 +1,283 @@
+[
+  {
+    "item": {
+      "value": "Q401173",
+      "label": "Ahmed Benbitour"
+    },
+    "statement": "Q401173$3CE438C9-B042-415D-8D8F-A89162F1DCF8"
+  },
+  {
+    "item": {
+      "value": "Q510018",
+      "label": "Mohammed Seddik Ben Yahia"
+    },
+    "statement": "Q510018$CDD27AF7-A612-4FCA-A06D-D0C45CCB969E"
+  },
+  {
+    "item": {
+      "value": "Q2911915",
+      "label": "Boualem Benhamouda"
+    },
+    "statement": "Q2911915$7584C591-C11B-482C-9C03-E4F4ADE225BC"
+  },
+  {
+    "item": {
+      "value": "Q19629322",
+      "label": "Smaïn Mahroug"
+    },
+    "statement": "Q19629322$5DF14364-1407-40BD-859A-E6F75B648BE5"
+  },
+  {
+    "item": {
+      "value": "Q2972065",
+      "label": "Chérif Belkacem"
+    },
+    "statement": "Q2972065$E7248B4B-5F38-4587-8A9B-13E0087F3127"
+  },
+  {
+    "item": {
+      "value": "Q3194523",
+      "label": "Kaïd Ahmed"
+    },
+    "statement": "Q3194523$7952F27B-90E7-4E6C-B5A4-4F5C8E00C45C"
+  },
+  {
+    "item": {
+      "value": "Q3272341",
+      "label": "M'hamed Yala"
+    },
+    "statement": "Q3272341$3CF80AFC-D4AF-4DAF-BEF7-A35A29DD1A24"
+  },
+  {
+    "item": {
+      "value": "Q97480019",
+      "label": "Abdelkrim Harchaoui"
+    },
+    "statement": "Q97480019$c69cada3-40ff-ead1-546b-ddfec165c5fd"
+  },
+  {
+    "item": {
+      "value": "Q327010",
+      "label": "Sid Ahmed Ghozali"
+    },
+    "statement": "Q327010$5E631C7B-0499-41F0-A7FC-1F95D044D6AB",
+    "start": "1977-01-01T00:00:00Z",
+    "end": "1979-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q97479532",
+      "label": "Abdelatif Benachenhou"
+    },
+    "replaces": {
+      "value": "Q97480019",
+      "label": "Abdelkrim Harchaoui"
+    },
+    "replacedBy": {
+      "value": "Q58145",
+      "label": "Mourad Medelci"
+    },
+    "statement": "Q97479532$9949c02b-4c8e-9a95-72a3-11b118e30029",
+    "start": "1999-12-23T00:00:00Z",
+    "end": "2001-05-31T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q58145",
+      "label": "Mourad Medelci"
+    },
+    "replaces": {
+      "value": "Q97479532",
+      "label": "Abdelatif Benachenhou"
+    },
+    "replacedBy": {
+      "value": "Q97479674",
+      "label": "Mohamed Terbeche"
+    },
+    "statement": "Q58145$f9147473-4344-13e6-98d2-8e94a33571a0",
+    "start": "2001-05-31T00:00:00Z",
+    "end": "2002-06-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q97479674",
+      "label": "Mohamed Terbeche"
+    },
+    "replaces": {
+      "value": "Q58145",
+      "label": "Mourad Medelci"
+    },
+    "replacedBy": {
+      "value": "Q97479532",
+      "label": "Abdelatif Benachenhou"
+    },
+    "statement": "Q97479674$0ea24863-4af9-88bb-816c-de20c521dbcb",
+    "start": "2002-06-04T00:00:00Z",
+    "end": "2003-05-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q97479532",
+      "label": "Abdelatif Benachenhou"
+    },
+    "replaces": {
+      "value": "Q97479674",
+      "label": "Mohamed Terbeche"
+    },
+    "replacedBy": {
+      "value": "Q58145",
+      "label": "Mourad Medelci"
+    },
+    "statement": "Q97479532$24e2a4c4-4ac6-04fd-e661-c7b4090a0c96",
+    "start": "2003-05-05T00:00:00Z",
+    "end": "2005-05-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q58145",
+      "label": "Mourad Medelci"
+    },
+    "replaces": {
+      "value": "Q97479532",
+      "label": "Abdelatif Benachenhou"
+    },
+    "replacedBy": {
+      "value": "Q3193179",
+      "label": "Karim Djoudi"
+    },
+    "statement": "Q58145$09C52D41-B181-4D9E-9F9C-5CE6D51A5783",
+    "start": "2005-05-01T00:00:00Z",
+    "end": "2007-06-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3193179",
+      "label": "Karim Djoudi"
+    },
+    "replaces": {
+      "value": "Q58145",
+      "label": "Mourad Medelci"
+    },
+    "replacedBy": {
+      "value": "Q16855291",
+      "label": "Mohamed Djellab"
+    },
+    "statement": "Q3193179$8FD6F80C-6F7D-46CC-AF38-5DB73A5D3F3F",
+    "start": "2007-06-04T00:00:00Z",
+    "end": "2014-04-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q16855291",
+      "label": "Mohamed Djellab"
+    },
+    "replaces": {
+      "value": "Q3193179",
+      "label": "Karim Djoudi"
+    },
+    "replacedBy": {
+      "value": "Q19953017",
+      "label": "Abderrahmane Benkhalfa"
+    },
+    "statement": "Q16855291$568AD35F-E6B9-433F-A03D-1842FDC043ED",
+    "start": "2014-05-05T00:00:00Z",
+    "end": "2015-05-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q19953017",
+      "label": "Abderrahmane Benkhalfa"
+    },
+    "replaces": {
+      "value": "Q16855291",
+      "label": "Mohamed Djellab"
+    },
+    "replacedBy": {
+      "value": "Q24689725",
+      "label": "Hadji Baba Ammi"
+    },
+    "statement": "Q19953017$CFFD8392-677F-4E8C-996E-D354A7F7667E",
+    "start": "2015-05-14T00:00:00Z",
+    "end": "2016-06-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q24689725",
+      "label": "Hadji Baba Ammi"
+    },
+    "replaces": {
+      "value": "Q19953017",
+      "label": "Abderrahmane Benkhalfa"
+    },
+    "replacedBy": {
+      "value": "Q30728993",
+      "label": "Abderrahmane Raouya"
+    },
+    "statement": "Q24689725$41780A2F-DDC4-4DF6-9D63-E9092FD30C3F",
+    "start": "2016-06-11T00:00:00Z",
+    "end": "2017-05-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q30728993",
+      "label": "Abderrahmane Raouya"
+    },
+    "replaces": {
+      "value": "Q24689725",
+      "label": "Hadji Baba Ammi"
+    },
+    "replacedBy": {
+      "value": "Q62638293",
+      "label": "Mohammed Loukal"
+    },
+    "statement": "Q30728993$2ed337ca-42d5-44b6-e999-e01f3d7a1bda",
+    "start": "2017-05-25T00:00:00Z",
+    "end": "2019-03-31T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q62638293",
+      "label": "Mohammed Loukal"
+    },
+    "replaces": {
+      "value": "Q30728993",
+      "label": "Abderrahmane Raouya"
+    },
+    "replacedBy": {
+      "value": "Q30728993",
+      "label": "Abderrahmane Raouya"
+    },
+    "statement": "Q62638293$74F060F8-6277-4809-B553-E7473EA688AA",
+    "start": "2019-03-31T00:00:00Z",
+    "end": "2020-01-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q30728993",
+      "label": "Abderrahmane Raouya"
+    },
+    "replaces": {
+      "value": "Q62638293",
+      "label": "Mohammed Loukal"
+    },
+    "replacedBy": {
+      "value": "Q97478693",
+      "label": "Aïmene Benabderrahmane"
+    },
+    "statement": "Q30728993$0F726F85-B826-4392-AFBD-CFBF47FF292E",
+    "start": "2020-01-04T00:00:00Z",
+    "end": "2020-06-23T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q97478693",
+      "label": "Aïmene Benabderrahmane"
+    },
+    "replaces": {
+      "value": "Q30728993",
+      "label": "Abderrahmane Raouya"
+    },
+    "statement": "Q97478693$e9f9dddd-4259-3cf5-509b-5302bd969f4f",
+    "start": "2020-06-23T00:00:00Z"
+  }
+]
