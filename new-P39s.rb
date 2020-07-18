@@ -18,6 +18,7 @@ wikipedia = InputFile::CSV.new(wikipedia_file)
 wikidata = InputFile::JSON.new(wikidata_file)
 
 wikipedia.data.each do |wp|
+  next if wp[:id].empty?
   next unless wikipedia.tally[wp[:id]] > wikidata.tally.fetch(wp[:id], 0)
   existing = wikidata.find(wp[:id])
 
